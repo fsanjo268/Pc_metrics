@@ -1,0 +1,1 @@
+Start "" /B javaw -jar PC_Metrics_Widget.jar
